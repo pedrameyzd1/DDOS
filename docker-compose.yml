@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  DDOS:
+    
+    build: .
+    container_name: DDOS
+    restart: unless-stopped
+    volumes:
+      - ./config.json:/app/config.json
+      - ./files:/app/files
+     
+    
+    
