@@ -40,7 +40,7 @@ from base64 import b64encode
 
 basicConfig(format='[%(asctime)s - %(levelname)s] %(message)s',
             datefmt="%H:%M:%S")
-logger = getLogger("MHDDoS")
+logger = getLogger("\EYZD")
 logger.setLevel("INFO")
 ctx: SSLContext = create_default_context(cafile=where())
 ctx.check_hostname = False
@@ -1574,7 +1574,7 @@ class ToolsConsole:
     @staticmethod
     def usage():
         print((
-                  '* MHDDoS - DDoS Attack Script With %d Methods\n'
+                  '* DDOS - DDoS Attack Script With %d Methods\n'
                   'Note: If the Proxy list is empty, The attack will run without proxies\n'
                   '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
                   '      Proxy Type 0 = All in config.json\n'
