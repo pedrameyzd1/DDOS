@@ -85,42 +85,8 @@ python3 start.py tools
   * 👑 HELP | Show Usage Script
 
   
-<h1 align="center">
-Our social's💻
-  
-</h2> 
 
-<h1 style="color:red;text-align: center;" style="text-align: center;" align="center">Please do not use the "Issues" section to ask your questions!</h1>
-<div align="center">
-   <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="64" height="64"/>
-   <img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png"  width="64" height="64" alt="discord" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="64" height="64" alt="telegram" />
-</div>
 
- * [Matrix community Telegram channel](https://t.me/Matrix_Development)
- * [Matrix team Telegram Group](https://t.me/MatrixTMChat)
- * [GitHub](https://github.com/MatrixTM)
-### If u Like the project, leave a star on the repository!
-
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/pedrameyzd1/DDOS.git)
-
-### Getting Started
-
-**Requirements**
-
-* [dnspython](https://github.com/rthalley/dnspython)
-* [cfscrape](https://github.com/Anorov/cloudflare-scrape)
-* [impacket](https://github.com/SecureAuthCorp/impacket)
-* [requests](https://github.com/psf/requests)
-* [Python3][python3]
-* [PyRoxy](https://github.com/MatrixTM/PyRoxy)
-* [icmplib](https://github.com/ValentinBELYN/icmplib)
-* [certifi](https://github.com/certifi/python-certifi)
-* [psutil](https://github.com/giampaolo/psutil)
-* [yarl](https://github.com/aio-libs/yarl)
----
 
 ## Documentation
 
